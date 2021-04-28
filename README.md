@@ -1,16 +1,3 @@
-# applatihan1
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+SS tugas
+![WhatsApp Image 2021-04-29 at 5 52 38 AM](https://user-images.githubusercontent.com/63020583/116482445-5db7c580-a8af-11eb-9fa7-472465e7c602.jpeg)
+![WhatsApp Image 2021-04-29 at 5 52 38 AM (1)](https://user-images.githubusercontent.com/63020583/116482446-5f818900-a8af-11eb-9d25-e3699e169fa6.jpeg)
